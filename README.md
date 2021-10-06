@@ -3,7 +3,7 @@
 
 ## Ataskaita
 
-### Užduotis:
+### Užduotis, išpildytos realizacijos, punktai:
 Instrukcijos
 Sveiki,
 Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus zinduolių ir bakterijų virusuose. Prisegtuke pateikti po keturis  zinduoliu ("mamalian") ir bakteriju virusai (fasta formatas). Parasykite programa, kuri:  
