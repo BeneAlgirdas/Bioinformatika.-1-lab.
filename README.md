@@ -3,7 +3,7 @@
 
 ## Ataskaita
 
-### Užduotis:
+### Užduotis, išpildytos realizacijos, punktai:
 Instrukcijos
 Sveiki,
 Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus zinduolių ir bakterijų virusuose. Prisegtuke pateikti po keturis  zinduoliu ("mamalian") ir bakteriju virusai (fasta formatas). Parasykite programa, kuri:  
@@ -44,10 +44,16 @@ Gediminas
 P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateiktų sekų - mielasis covid-19...
 
 ### Kodonų matrica:
-![Kodonų matrica:](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica.png)
+![Kodonų matrica](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica.png)
+
+### Kodonų matrica - Phylip formatas
+![Kodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica%20-%20Phylip%20formatas.png)
 
 ### Dikodonų matrica:
-![Dikodonų matrica: ](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrica.png)
+![Dikodonų matrica](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrica.png)
+
+### Dikodonų matrica - Phylip formatas
+![Dikodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrcia%20-%20Phylip%20formatas.png)
 
 #### Palyginimui naudojama formulė: ![Palyginimui naudojama formulė](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Palyginimui%20naudojama%20formul%C4%97.png)
 
