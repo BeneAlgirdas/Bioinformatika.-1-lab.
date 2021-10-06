@@ -1,12 +1,9 @@
 # Algirdas Benetis
-# Bioinformatika.-1-lab.
+# Bioinformatika.Laboratorinis #1
 
 # Ataskaita
 
-![Kodonų matrica:](https://i7.imageban.ru/out/2021/10/06/dc832591aac782dc9887d285ce5ba17a.png)
-
-# Laboratorinis #1
-
+UŽDUOTIS:
 Instrukcijos
 Sveiki,
 Užduoties tikslas: įvertinti kodonų ir dikodonų dažnio skirtumus zinduolių ir bakterijų virusuose. Prisegtuke pateikti po keturis  zinduoliu ("mamalian") ir bakteriju virusai (fasta formatas). Parasykite programa, kuri:  
@@ -45,3 +42,8 @@ Sėkmės.
 Gediminas
 
 P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateiktų sekų - mielasis covid-19...
+
+
+![Kodonų matrica:](https://i4.imageban.ru/out/2021/10/06/b11c3b8c88fce39511664d0f803a41a4.png)
+![Dikodonų matrica: ](https://i2.imageban.ru/out/2021/10/06/70c0d8e0c7b354c0bc5e1a69a197a0b1.png)
+
