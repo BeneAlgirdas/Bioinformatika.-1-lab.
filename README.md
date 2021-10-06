@@ -49,11 +49,17 @@ P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateikt
 ### Kodonų matrica - Phylip formatas
 ![Kodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica%20-%20Phylip%20formatas.png)
 
+### Kodonų atstumų matricos medis
+![Kodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20atstum%C5%B3%20matricos%20medis.png)
+
 ### Dikodonų matrica:
 ![Dikodonų matrica](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrica.png)
 
 ### Dikodonų matrica - Phylip formatas
 ![Dikodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrcia%20-%20Phylip%20formatas.png)
+
+### Dikodonų atstumų matricos medis
+![Dikodonų matrica - Phylip formatas](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20atstum%C5%B3%20matricos%20medis.png)
 
 #### Palyginimui naudojama formulė: ![Palyginimui naudojama formulė](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Palyginimui%20naudojama%20formul%C4%97.png)
 
