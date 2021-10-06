@@ -44,10 +44,10 @@ Gediminas
 P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateiktų sekų - mielasis covid-19...
 
 ### Kodonų matrica:
-![Kodonų matrica:](https://i4.imageban.ru/out/2021/10/06/b11c3b8c88fce39511664d0f803a41a4.png)
+![Kodonų matrica:](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica.png)
 
 ### Dikodonų matrica:
-![Dikodonų matrica: ](https://i2.imageban.ru/out/2021/10/06/70c0d8e0c7b354c0bc5e1a69a197a0b1.png)
+![Dikodonų matrica: ](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Dikodon%C5%B3%20matrica.png)
 
-#### Palyginimui naudojama formulė: ![Palyginimui naudojama formulė](https://i4.imageban.ru/out/2021/10/06/a42c204506f0ff8641d2ade46eaf5b67.png)
+#### Palyginimui naudojama formulė: ![Palyginimui naudojama formulė](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Palyginimui%20naudojama%20formul%C4%97.png)
 
