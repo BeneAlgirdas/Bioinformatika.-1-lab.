@@ -43,7 +43,9 @@ Gediminas
 
 P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateiktų sekų - mielasis covid-19...
 
-
+## Kodonų matrica:
 ![Kodonų matrica:](https://i4.imageban.ru/out/2021/10/06/b11c3b8c88fce39511664d0f803a41a4.png)
+
+## Dikodonų matrica:
 ![Dikodonų matrica: ](https://i2.imageban.ru/out/2021/10/06/70c0d8e0c7b354c0bc5e1a69a197a0b1.png)
 
