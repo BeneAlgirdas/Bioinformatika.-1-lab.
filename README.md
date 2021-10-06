@@ -1,5 +1,12 @@
+# Algirdas Benetis
 # Bioinformatika.-1-lab.
-Laboratorinis #1
+
+# Ataskaita
+
+![alt text](https://imageban.ru/show/2021/10/06/dc832591aac782dc9887d285ce5ba17a/png)
+
+
+# Laboratorinis #1
 
 Instrukcijos
 Sveiki,
