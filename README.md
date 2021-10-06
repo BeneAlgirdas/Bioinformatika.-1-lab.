@@ -43,6 +43,9 @@ Gediminas
 
 P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateiktų sekų - mielasis covid-19...
 
+#### Start kodonai: ATG
+#### Stop kodonai: TAG, TAA, and TGA
+
 ### Kodonų matrica:
 ![Kodonų matrica](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/Kodon%C5%B3%20matrica.png)
 
