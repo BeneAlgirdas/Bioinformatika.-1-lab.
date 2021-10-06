@@ -1,5 +1,5 @@
 # Algirdas Benetis
-# Bioinformatika.Laboratorinis #1
+# Bioinformatika. Laboratorinis #1
 
 ## Ataskaita
 
@@ -48,4 +48,6 @@ P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateikt
 
 ### Dikodonų matrica:
 ![Dikodonų matrica: ](https://i2.imageban.ru/out/2021/10/06/70c0d8e0c7b354c0bc5e1a69a197a0b1.png)
+
+#### Palyginimui naudojama formulė: ![Palyginimui naudojama formulė](https://i4.imageban.ru/out/2021/10/06/a42c204506f0ff8641d2ade46eaf5b67.png)
 
