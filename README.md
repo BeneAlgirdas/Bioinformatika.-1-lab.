@@ -3,8 +3,7 @@
 
 # Ataskaita
 
-![alt text](https://imageban.ru/show/2021/10/06/dc832591aac782dc9887d285ce5ba17a/png)
-
+![Kodonų matrica:](https://i7.imageban.ru/out/2021/10/06/dc832591aac782dc9887d285ce5ba17a.png)
 
 # Laboratorinis #1
 
