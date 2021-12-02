@@ -5,13 +5,7 @@ from Bio.Blast import NCBIXML
 
 
 def ketvirto_uzd_a():
-    for formatas in formatai:
-        simbolis_uzkodavime = True
-        for simbolis in skirtingi_simboliai:
-            if ord(simbolis) < formatai[formatas][0] or ord(simbolis) > formatai[formatas][1]:
-                simbolis_uzkodavime = False
-        if simbolis_uzkodavime:
-            print(formatas)
+    print(analys.format.fq_qual_var(file='duomenys/reads_for_analysis.fastq'))
 
 
 formatai = dict({
