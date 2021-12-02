@@ -68,3 +68,39 @@ P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateikt
 
 ### Palyginimo aprašymas:
 Iš atstumų matricų medžių galima pastebėti, kad tarpusavyje, tiek baterijų, tiek žinduolių virusai yra panašūs. Tačiau yra išsimčių. Labiausiai, tiek kodonų, tiek dikodonų atstumų matricų medžiuose išsiskiria B4 virusas.
+
+# Bioinformatika. Laboratorinis #3
+
+## Ataskaita
+
+### Pirma užduotis:
+FASTQ formatas yra tekstinis formatas, skirtas saugoti tiek biologinę seką, tiek atitinkamus jos kokybės balus. Tiek sekos raidė, tiek kokybės balas yra užkoduoti vienu ASCII simboliu trumpumui.
+Lyginant su FASTA formatu, FASTQ papildomai yra pateikiama tokia informacija kaip sekos ID, kokybės įverčiai. Kokybes įvertinimai nuo blogiausio iki geriausio yra koduojami šiais ASCII simboliais: !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ]^_`abcdefghijklmnopqrstuvwxyz{|}~
+Jie parodo, kaip tiksliai seka buvo nuskaityta.
+
+### Antra užduotis:
+Aš gimiau 23 mėnesio dieną.
+23+33=56
+Šį skaičių atitinka ASCII simbolis „8“, t. y. aštuonetas.
+
+### Trečia užduotis:
+Ši lentelė prasideda 32 nespausdinamais simboliais. Tai yra simboliai, kurie yra rezervuoti, skirti apibūdinti tam tikrą funkcinę klaviatūros mygtukų įvestį.
+
+### Ketvirta užduotis:
+#### a)
+Pateiktame faile naudojamas Sanger Phred+33 kokybės kodavimas.
+Ši koduotė buvo nustatyta remiantis „bioinfokit“ biblioteka, analys.format.fq_qual_var(file) funkcija, jai grąžinant failo kokybės koduotę.
+Koduotes galima nustatyti pagal šiame „Wikipedia“ enciklopedijos skyriuje pateiktą informaciją - spalvota lentelę:
+https://en.wikipedia.org/wiki/FASTQ_format#Encoding
+
+#### b)
+
+„stambių“ pikų skaičius yra gautame grafike yra 3.
+
+#### c)
+
+
+### Ketvirta užduotis:
+Staphylococcus aureus (auksinis stafilokokas) https://lt.wikipedia.org/wiki/Auksinis_stafilokokas
+Escherichia coli https://lt.wikipedia.org/wiki/Escherichia_coli
+Thermus thermophilus https://en.wikipedia.org/wiki/Thermus_thermophilus
