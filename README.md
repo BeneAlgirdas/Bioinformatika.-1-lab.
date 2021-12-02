@@ -69,7 +69,7 @@ P.S. Nežinau teisingo ataskymo...Įdomu kaip gausis:). Be to, viena iš pateikt
 ### Palyginimo aprašymas:
 Iš atstumų matricų medžių galima pastebėti, kad tarpusavyje, tiek baterijų, tiek žinduolių virusai yra panašūs. Tačiau yra išsimčių. Labiausiai, tiek kodonų, tiek dikodonų atstumų matricų medžiuose išsiskiria B4 virusas.
 
-# Bioinformatika. Laboratorinis #3
+# Bioinformatika. Laboratorinis #3 NGS duomenu analize
 
 ## Ataskaita
 
