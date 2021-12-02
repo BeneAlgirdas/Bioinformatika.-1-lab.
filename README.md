@@ -95,7 +95,7 @@ https://en.wikipedia.org/wiki/FASTQ_format#Encoding
 
 #### b)
 ![Grafikas. 3 lab.](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/grafikas.%203%20lab..png)
-„stambių“ pikų skaičius yra gautame grafike yra 3.
+„stambių“ pikų skaičius yra gautame grafike yra 3. 0.34, 0.54, 0.70.
 
 #### c)
 ![Lentele. 3 lab.](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/lentele.%203%20lab..png)
