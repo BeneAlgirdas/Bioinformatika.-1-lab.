@@ -94,13 +94,13 @@ Koduotes galima nustatyti pagal šiame „Wikipedia“ enciklopedijos skyriuje p
 https://en.wikipedia.org/wiki/FASTQ_format#Encoding
 
 #### b)
-
+![Grafikas. 3 lab.](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/grafikas.%203%20lab..png)
 „stambių“ pikų skaičius yra gautame grafike yra 3.
 
 #### c)
+![Lentele. 3 lab.](https://raw.githubusercontent.com/BeneAlgirdas/Bioinformatika.-1-lab./master/images/lentele.%203%20lab..png)
 
-
-### Ketvirta užduotis:
+### Penkta užduotis:
 Staphylococcus aureus (auksinis stafilokokas) https://lt.wikipedia.org/wiki/Auksinis_stafilokokas
 Escherichia coli https://lt.wikipedia.org/wiki/Escherichia_coli
 Thermus thermophilus https://en.wikipedia.org/wiki/Thermus_thermophilus
